@@ -6,13 +6,11 @@ Flash firmware:
 3. Plug in left half. > press physical reset button twice quickly. > Drag and drop same settings_reset file into directory. > after transfer leave plugged in.
 4. Press physical reset button twice. > drag and drop sofle_left firmware into directory. > after transfer unplug. *if using displays use the nice view one
 5. Plug in right half > press reset button twice again > drag and drop sofle_right firmware into directory. *if using displays use the nice view one
-*My shops https://keyboard-hoarders.com & https://keyboardhoarders.etsy.com
-![IMG_0823](https://github.com/user-attachments/assets/2ea9dfec-71c9-428f-aef8-a898e3273b3d)
 
+# Store pages:
+keyboard-hoarders.com and keyboardhoarders.etsy.com
+## Customize keymap guide:
+keyboardhoarders.com/blog
 
-## Keymap
-![sofle2enc](https://github.com/user-attachments/assets/97862878-3886-4d13-90c4-bc0ee6767be2)
-
-
-## Bluetooth
-![soflebluetooth](https://github.com/user-attachments/assets/6c6c1d46-74e9-4e91-8191-667fd3f0ec6d)
+![IMG_0700](https://github.com/user-attachments/assets/5908f61d-e762-4a3d-ab9d-74b530c19164)
+<img width="956" height="1646" alt="soflechoc60key" src="https://github.com/user-attachments/assets/086727d5-d25a-4369-820f-aabff3ca3c8e" />
