@@ -11,7 +11,7 @@ Flash firmware:
 # Store pages:
 keyboard-hoarders.com and keyboardhoarders.etsy.com
 ## Customize keymap guide:
-[keyboardhoarders.com/blog](https://keyboard-hoarders.com/pages/guides-1)
+[keyboardhoarders.com/guides](https://keyboard-hoarders.com/pages/guides-1)
 
 
 <img width="5328" height="4000" alt="main" src="https://github.com/user-attachments/assets/e5e5167a-6bfb-467e-8826-21596aeaf5d8" />
