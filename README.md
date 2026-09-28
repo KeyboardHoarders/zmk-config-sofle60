@@ -1,5 +1,5 @@
 
-# Sofle Choc 60key 
+# Sofle Choc 60 key 
 
 Flash firmware:
 1. Keep both halves powered on.
